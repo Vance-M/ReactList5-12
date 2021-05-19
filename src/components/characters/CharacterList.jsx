@@ -23,12 +23,12 @@ const CharacterList = ({ characters }) => (
 Character.propTypes = {
     characters: PropTypes.arrayOf(
         PropTypes.shape({
-            id: PropTypes.string.isRequired,
-            name: PropTypes.string.isRequired,
-            image: PropTypes.string.isRequired,
-            enemies: PropTypes.string.isRequired
+            id: PropTypes.string,
+            name: PropTypes.string,
+            image: PropTypes.string,
+            enemies: PropTypes.string
         })
-    ).isRequired,
+    ),
 };
 
 export default CharacterList;

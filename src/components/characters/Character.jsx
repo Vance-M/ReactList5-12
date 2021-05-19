@@ -13,10 +13,10 @@ const Character = ({ id, name, image, enemies }) => (
 );
 
 Character.propTypes = {
-    id: PropTypes.string.isRequired,
-    name: PropTypes.string.isRequired,
-    image: PropTypes.string.isRequired,
-    enemies: PropTypes.string.isRequired
+    id: PropTypes.string,
+    name: PropTypes.string,
+    image: PropTypes.string,
+    enemies: PropTypes.string
 };
 
 

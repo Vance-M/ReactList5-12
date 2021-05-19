@@ -5,14 +5,15 @@ export default class AvatarContainer extends Component {
     state = {
         loading: true,
         characters: [],
-    }
+    };
 
     async componentDidMount() {
         const characters = await findCharacter();
+        
         this.setState({
             characters,
             loading: false,
-        })
+        });
     }
 
     render() {
@@ -23,6 +24,8 @@ export default class AvatarContainer extends Component {
                 <CharacterList characters={characters} />
         )
     }
+
+
 }
 
 

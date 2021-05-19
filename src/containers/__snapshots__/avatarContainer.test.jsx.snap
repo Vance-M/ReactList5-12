@@ -5,20 +5,28 @@ exports[`avatarContainer component renders a list of characters 1`] = `
   aria-label="characters"
 >
   <li>
-    <img
-      alt="Analay"
-      src="https://vignette.wikia.nocookie.net/avatar/images/c/c3/Analay.png/revision/latest?cb=20140430182201"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68d1"
+    >
+      <img
+        alt="Analay"
+        src="https://vignette.wikia.nocookie.net/avatar/images/c/c3/Analay.png/revision/latest?cb=20140430182201"
+      />
+    </a>
     <p>
       Analay
     </p>
     <p />
   </li>
   <li>
-    <img
-      alt="Arik"
-      src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Arik.png/revision/latest?cb=20140808184002"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68d5"
+    >
+      <img
+        alt="Arik"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Arik.png/revision/latest?cb=20140808184002"
+      />
+    </a>
     <p>
       Arik
     </p>
@@ -27,10 +35,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Baatar Jr."
-      src="https://vignette.wikia.nocookie.net/avatar/images/4/45/Baatar_Jr..png/revision/latest?cb=20150409193510"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68e2"
+    >
+      <img
+        alt="Baatar Jr."
+        src="https://vignette.wikia.nocookie.net/avatar/images/4/45/Baatar_Jr..png/revision/latest?cb=20150409193510"
+      />
+    </a>
     <p>
       Baatar Jr.
     </p>
@@ -39,10 +51,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Bolin"
-      src="https://vignette.wikia.nocookie.net/avatar/images/d/d4/Bolin.png/revision/latest?cb=20150406232314"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68e9"
+    >
+      <img
+        alt="Bolin"
+        src="https://vignette.wikia.nocookie.net/avatar/images/d/d4/Bolin.png/revision/latest?cb=20150406232314"
+      />
+    </a>
     <p>
       Bolin
     </p>
@@ -51,9 +67,13 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Chan (Fire Nation admiral)"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68fd"
+    >
+      <img
+        alt="Chan (Fire Nation admiral)"
+      />
+    </a>
     <p>
       Chan (Fire Nation admiral)
     </p>
@@ -62,10 +82,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Chit Sang"
-      src="https://vignette.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
-    />
+    <a
+      href="/5cf5679a915ecad153ab6900"
+    >
+      <img
+        alt="Chit Sang"
+        src="https://vignette.wikia.nocookie.net/avatar/images/8/81/Chit_Sang.png/revision/latest?cb=20121021000707"
+      />
+    </a>
     <p>
       Chit Sang
     </p>
@@ -74,10 +98,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Asami Sato"
-      src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Asami_Sato.png/revision/latest?cb=20150407110150"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68d7"
+    >
+      <img
+        alt="Asami Sato"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Asami_Sato.png/revision/latest?cb=20150407110150"
+      />
+    </a>
     <p>
       Asami Sato
     </p>
@@ -86,30 +114,42 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Bum-Ju"
-      src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Bum-Ju.png/revision/latest?cb=20140730103156"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68f0"
+    >
+      <img
+        alt="Bum-Ju"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Bum-Ju.png/revision/latest?cb=20140730103156"
+      />
+    </a>
     <p>
       Bum-Ju
     </p>
     <p />
   </li>
   <li>
-    <img
-      alt="Butler"
-      src="https://vignette.wikia.nocookie.net/avatar/images/8/82/Butler.png/revision/latest?cb=20121107115044"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68f5"
+    >
+      <img
+        alt="Butler"
+        src="https://vignette.wikia.nocookie.net/avatar/images/8/82/Butler.png/revision/latest?cb=20121107115044"
+      />
+    </a>
     <p>
       Butler
     </p>
     <p />
   </li>
   <li>
-    <img
-      alt="Broadsword man"
-      src="https://vignette.wikia.nocookie.net/avatar/images/9/98/Broadsword_man.png/revision/latest?cb=20130630171553"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68ed"
+    >
+      <img
+        alt="Broadsword man"
+        src="https://vignette.wikia.nocookie.net/avatar/images/9/98/Broadsword_man.png/revision/latest?cb=20130630171553"
+      />
+    </a>
     <p>
       Broadsword man
     </p>
@@ -118,10 +158,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Aiwei"
-      src="https://vignette.wikia.nocookie.net/avatar/images/0/07/Aiwei_reveals_Korra%27s_lie.png/revision/latest?cb=20140808130551"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68cf"
+    >
+      <img
+        alt="Aiwei"
+        src="https://vignette.wikia.nocookie.net/avatar/images/0/07/Aiwei_reveals_Korra%27s_lie.png/revision/latest?cb=20140808130551"
+      />
+    </a>
     <p>
       Aiwei
     </p>
@@ -130,10 +174,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Animal control officer"
-      src="https://vignette.wikia.nocookie.net/avatar/images/5/58/Animal_control_officer.png/revision/latest?cb=20140504160655"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68d2"
+    >
+      <img
+        alt="Animal control officer"
+        src="https://vignette.wikia.nocookie.net/avatar/images/5/58/Animal_control_officer.png/revision/latest?cb=20140504160655"
+      />
+    </a>
     <p>
       Animal control officer
     </p>
@@ -142,20 +190,28 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Chow"
-      src="https://vignette.wikia.nocookie.net/avatar/images/5/51/Chow.png/revision/latest?cb=20140730173827"
-    />
+    <a
+      href="/5cf5679a915ecad153ab6904"
+    >
+      <img
+        alt="Chow"
+        src="https://vignette.wikia.nocookie.net/avatar/images/5/51/Chow.png/revision/latest?cb=20140730173827"
+      />
+    </a>
     <p>
       Chow
     </p>
     <p />
   </li>
   <li>
-    <img
-      alt="Circus master"
-      src="https://vignette.wikia.nocookie.net/avatar/images/a/a5/Circus_master.png/revision/latest?cb=20130706153819"
-    />
+    <a
+      href="/5cf5679a915ecad153ab6906"
+    >
+      <img
+        alt="Circus master"
+        src="https://vignette.wikia.nocookie.net/avatar/images/a/a5/Circus_master.png/revision/latest?cb=20130706153819"
+      />
+    </a>
     <p>
       Circus master
     </p>
@@ -164,10 +220,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Bujing"
-      src="https://vignette.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68ee"
+    >
+      <img
+        alt="Bujing"
+        src="https://vignette.wikia.nocookie.net/avatar/images/7/76/Bujing.png/revision/latest?cb=20130714152817"
+      />
+    </a>
     <p>
       Bujing
     </p>
@@ -176,10 +236,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Buttercup Raiko"
-      src="https://vignette.wikia.nocookie.net/avatar/images/e/ed/Buttercup_Raiko.png/revision/latest?cb=20150409193510"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68f6"
+    >
+      <img
+        alt="Buttercup Raiko"
+        src="https://vignette.wikia.nocookie.net/avatar/images/e/ed/Buttercup_Raiko.png/revision/latest?cb=20150409193510"
+      />
+    </a>
     <p>
       Buttercup Raiko
     </p>
@@ -188,10 +252,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Cabbage merchant"
-      src="https://vignette.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68f7"
+    >
+      <img
+        alt="Cabbage merchant"
+        src="https://vignette.wikia.nocookie.net/avatar/images/2/2f/Cabbage_merchant.png/revision/latest?cb=20140112200908"
+      />
+    </a>
     <p>
       Cabbage merchant
     </p>
@@ -200,10 +268,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Calm man"
-      src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Calm_man.png/revision/latest?cb=20130814093330"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68f8"
+    >
+      <img
+        alt="Calm man"
+        src="https://vignette.wikia.nocookie.net/avatar/images/b/b6/Calm_man.png/revision/latest?cb=20130814093330"
+      />
+    </a>
     <p>
       Calm man
     </p>
@@ -212,10 +284,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Chin"
-      src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Chin_the_Great.png/revision/latest?cb=20140215111604"
-    />
+    <a
+      href="/5cf5679a915ecad153ab68ff"
+    >
+      <img
+        alt="Chin"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6f/Chin_the_Great.png/revision/latest?cb=20140215111604"
+      />
+    </a>
     <p>
       Chin
     </p>
@@ -224,10 +300,14 @@ exports[`avatarContainer component renders a list of characters 1`] = `
     </p>
   </li>
   <li>
-    <img
-      alt="Chit Sang's friend"
-      src="https://vignette.wikia.nocookie.net/avatar/images/6/6e/Chit_Sang%27s_friend.png/revision/latest?cb=20121120131829"
-    />
+    <a
+      href="/5cf5679a915ecad153ab6901"
+    >
+      <img
+        alt="Chit Sang's friend"
+        src="https://vignette.wikia.nocookie.net/avatar/images/6/6e/Chit_Sang%27s_friend.png/revision/latest?cb=20121120131829"
+      />
+    </a>
     <p>
       Chit Sang's friend
     </p>
